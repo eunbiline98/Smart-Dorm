@@ -1,5 +1,7 @@
 # Smart-Dorm
 
+this is my mini project, which i implemented in my dorm, to make my dorm look high tech 😆😆😆
+
 # Hardware
 - Esp-8266 (nodemcu  / wemos)
 - Relay Module 2 CH
