@@ -17,8 +17,8 @@ This tool can still be developed by adding a humidity sensor or other features, 
 - Thinger.Io Platform
 
 # Fiture
-- control on/off relay lamp
-- control lock/unlock Door Lock
+- Control on/off relay lamp
+- Control lock/unlock Door Lock
 - Monitoring Temperature & Humidity
 - Monitoring Door Status
 
