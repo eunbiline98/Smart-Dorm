@@ -1,8 +1,4 @@
 # Smart-Dorm
-# Irrigation-System-esp32
-
-This system is very simple, which can control the pump for irrigation to plants, can control the super white led lights and also control the blue light ws2812 led strip
-This tool can still be developed by adding a humidity sensor or other features, and AI
 
 # Hardware
 - Esp-8266 (nodemcu  / wemos)
