@@ -9,7 +9,7 @@ DHT dht(DHTPIN, DHTTYPE);
 
 #define USERNAME "............."
 #define DEVICE_ID ".........."
-#define DEVICE_CREDENTIAL ".............."
+#define DEVICE_CREDENTIAL "............."
 
 #define SSID ".........."
 #define SSID_PASSWORD "............."
