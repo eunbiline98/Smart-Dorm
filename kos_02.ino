@@ -7,12 +7,12 @@
 #define DHTTYPE DHT11
 DHT dht(DHTPIN, DHTTYPE);
 
-#define USERNAME "atmduino"
-#define DEVICE_ID "smartkos_02"
-#define DEVICE_CREDENTIAL "dormeunbi"
+#define USERNAME "............."
+#define DEVICE_ID ".........."
+#define DEVICE_CREDENTIAL ".............."
 
-#define SSID "pandawa"
-#define SSID_PASSWORD "Werkud4r@"
+#define SSID ".........."
+#define SSID_PASSWORD "............."
 
 #define relay_lamp D6
 #define relay_doorLock D7
