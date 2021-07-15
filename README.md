@@ -34,4 +34,5 @@ link Buy : https://www.tokopedia.com/atmduinorobotic/smart-home-2-channel-relay
 
 - Support Google firebase Realtime Database 
 - Mit App's Inventor
+- https://www.electronicwings.com/users/eunbiline98/projects/770/making-a-remote-lamp-using-nodemcu-esp-8266-iot
 
