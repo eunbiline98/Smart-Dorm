@@ -28,3 +28,8 @@ link Buy : https://www.tokopedia.com/atmduinorobotic/smart-home-2-channel-relay
 - Thinger.io Dashboard
 ![Capture](https://user-images.githubusercontent.com/50385294/125800934-da64bacb-f902-4245-9cc2-f6fb9e5f4dd3.PNG)
 
+# Update
+
+- Support Google firebase Realtime Database 
+- Mit App's Inventor
+
