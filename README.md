@@ -10,6 +10,10 @@
 - Door Lock 12V
 - PSU 5V 3A and 12V 1A
 
+# Schematic
+![schematic](https://user-images.githubusercontent.com/50385294/126747870-bc6c77e5-566c-4388-9cd7-5ca8a6f7cf31.png)
+
+
 # Software
 - Arduino IDE
 - Thinger.Io Platform
