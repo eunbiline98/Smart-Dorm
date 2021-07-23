@@ -13,6 +13,8 @@
 # Schematic
 ![schematic](https://user-images.githubusercontent.com/50385294/126747870-bc6c77e5-566c-4388-9cd7-5ca8a6f7cf31.png)
 
+# PCB Layout
+![layout](https://user-images.githubusercontent.com/50385294/126748136-731f222b-2f49-47ee-afff-b952c2fafe2e.png)
 
 # Software
 - Arduino IDE
